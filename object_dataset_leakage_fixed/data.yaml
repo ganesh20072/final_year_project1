@@ -1,0 +1,11 @@
+path: /Users/ganeshkiller/Desktop/table_robot_ai/object_dataset_leakage_fixed
+train: train/images
+val: valid/images
+test: test/images
+names:
+  0: Bowl
+  1: Cup
+  2: Fork
+  3: Knife
+  4: Plate
+  5: Spoon
